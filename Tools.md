@@ -1,23 +1,23 @@
 ## NEW Prospective tool - 
 Kissflow - Manages workflow and reminders
 Had best of asana and slack
-Kissflow is a comprehensive workflow management tool that aims to improve productivity and efficiency within businesses1. It is a cloud-based forms automation solution offered by OrangeScape Technologies that automates business processes and tracks performance2. It is suitable for businesses of all sizes and industries2.
-Here are some key features of Kissflow:
-It supports both structured and unstructured workflows, covering all business functionalities1.
-It follows a lightweight approach, empowering business users to design workflows that they are familiar with in a matter of a few minutes1.
-It has an easy 5-step wizard for building your workflows in minutes3.
-It provides pre-built reports and a dashboard for workflow insights3.
-It allows you to share your workflows and collaborate with other process owners3.
-It offers single sign-on (SSO) with Google Apps, Office 365, and SAML3.
-It provides reliable APIs and webhooks to build your own integrations3.
-It has an intuitive designer and drag-and-drop form builder that facilitates business workflow automation with no coding know-how required4.
-It enhances data security through conditional access4.
-As for the pricing, Kissflow offers different plans:
-The basic plan starts at $1,500 per month5.
-Bulk pricing is available for businesses with over 100 users6.
-For more extensive portfolios, custom quotes are available5.
-The pricing for the procurement software starts at $2,499 per month7.
-For more details, you can visit the official Kissflow website.
+- Kissflow is a comprehensive workflow management tool that aims to improve productivity and efficiency within businesses1. It is a cloud-based forms automation solution offered by OrangeScape Technologies that automates business processes and tracks performance2. It is suitable for businesses of all sizes and industries2.
+### Here are some key features of Kissflow:
+- It supports both structured and unstructured workflows, covering all business functionalities1.
+- It follows a lightweight approach, empowering business users to design workflows that they are familiar with in a matter of a few minutes1.
+- It has an easy 5-step wizard for building your workflows in minutes3.
+- It provides pre-built reports and a dashboard for workflow insights3.
+- It allows you to share your workflows and collaborate with other process owners3.
+- It offers single sign-on (SSO) with Google Apps, Office 365, and SAML3.
+- It provides reliable APIs and webhooks to build your own integrations3.
+- It has an intuitive designer and drag-and-drop form builder that facilitates business workflow automation with no coding know-how required4.
+- It enhances data security through conditional access4.
+### As for the pricing, Kissflow offers different plans:
+- The basic plan starts at $1,500 per month5.
+- Bulk pricing is available for businesses with over 100 users6.
+- For more extensive portfolios, custom quotes are available5.
+- The pricing for the procurement software starts at $2,499 per month7.
+- For more details, you can visit the official Kissflow website.
 
 
 ## Wiki Ideas
